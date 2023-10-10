@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aatif Ahmad, a sophomore at the Indian Institute of Technology, Jodhpur, India.
 - 👀 I’m interested in exploring the endless possibilities of AI. I also find Quantum Computing mind-boggling. Besides all these, F1 racing always excites me.
 - 🌱 I’m currently learning AI and Data Science.
-- 💞️ I’m looking to collaborate on projects based on AI, or Data Science or Software Development.
+- 💞️ I’m looking to collaborate on projects based on AI, Data Science or Software Development.
 - 📫 How to reach me -- You can reach me through my email- eliza_archie18@outlook.com or my LinkedIn profile- www.linkedin.com/in/aatif-ahmad-2b8862282.
 
 <!---
